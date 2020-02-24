@@ -1,0 +1,19 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "this is publisher server",
+  "main": "server.js",
+  "scripts": {
+    "test": "na",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "author": "maneesh",
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "^5.2.0"
+  }
+}
